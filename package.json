@@ -18,7 +18,7 @@
     "serve-prod":"serve storybook-static"
   },
   "dependencies": {
-    "gatsby": "^2.20.25",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-styled-jsx": "^3.2.4",
     "gatsby-source-filesystem": "^2.2.5",
     "gatsby-transformer-json": "^2.3.4",
